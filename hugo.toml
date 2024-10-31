@@ -1,4 +1,4 @@
-baseURL = 'https://josephcwatts.com'
+baseURL = 'https://josephcw.github.io/blog/'
 languageCode = 'en-us'
 title = "Joseph's Blog"
 theme = 'ananke'

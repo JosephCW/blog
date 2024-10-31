@@ -1,0 +1,4 @@
+baseURL = 'https://josephcwatts.com'
+languageCode = 'en-us'
+title = "Joseph's Blog"
+theme = 'ananke'

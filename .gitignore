@@ -1,0 +1,21 @@
+# Hugo generated files
+/public/
+resources/
+hugo_stats.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
